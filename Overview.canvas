@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"Project Ideas","id":"bbc75f65acf97c44","x":-800,"y":-240,"width":250,"height":60},
+		{"type":"file","file":"Beegle Bone.md","id":"c16e9acba1b47dd7","x":-940,"y":-140,"width":480,"height":700},
+		{"type":"file","file":"SDR_Simulation.pdf","id":"d4599f5391c54d0b","x":-420,"y":-140,"width":480,"height":580}
+	],
+	"edges":[
+		{"id":"0be6e069184da6c0","fromNode":"c16e9acba1b47dd7","fromSide":"right","toNode":"d4599f5391c54d0b","toSide":"left"}
+	]
+}
