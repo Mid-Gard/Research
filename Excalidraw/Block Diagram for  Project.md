@@ -663,8 +663,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		},
 		{
 			"type": "arrow",
-			"version": 234,
-			"versionNonce": 1334219183,
+			"version": 235,
+			"versionNonce": 1775191777,
 			"isDeleted": false,
 			"id": "cB1i0nv5Jwvpl_uceBV2n",
 			"fillStyle": "hachure",
@@ -686,7 +686,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692875597365,
+			"updated": 1692875968062,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -719,8 +719,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		},
 		{
 			"type": "arrow",
-			"version": 252,
-			"versionNonce": 402332815,
+			"version": 256,
+			"versionNonce": 2005859841,
 			"isDeleted": false,
 			"id": "DaZ7iXcsg8Ewe6oRcorF0",
 			"fillStyle": "hachure",
@@ -742,7 +742,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692875597370,
+			"updated": 1692875968067,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -771,8 +771,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		},
 		{
 			"type": "arrow",
-			"version": 191,
-			"versionNonce": 916894383,
+			"version": 192,
+			"versionNonce": 1944163809,
 			"isDeleted": false,
 			"id": "AIfSXUwCZ0Uj7axihWOFL",
 			"fillStyle": "hachure",
@@ -794,7 +794,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692875597371,
+			"updated": 1692875968067,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -908,8 +908,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		},
 		{
 			"type": "arrow",
-			"version": 189,
-			"versionNonce": 1053758191,
+			"version": 191,
+			"versionNonce": 2056016289,
 			"isDeleted": false,
 			"id": "BvAAXTYjIJ4nbdURJfF14",
 			"fillStyle": "hachure",
@@ -918,11 +918,11 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -672.0440814448583,
+			"x": -675.6162395312733,
 			"y": 733.6784135850396,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 12.893360443392908,
+			"width": 14.056420323372322,
 			"height": 35.22777238308868,
 			"seed": 441762624,
 			"groupIds": [],
@@ -931,7 +931,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692875597372,
+			"updated": 1692875968068,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -953,7 +953,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 					0
 				],
 				[
-					12.893360443392908,
+					14.056420323372322,
 					-35.22777238308868
 				]
 			]
@@ -994,8 +994,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		},
 		{
 			"type": "arrow",
-			"version": 209,
-			"versionNonce": 2016060495,
+			"version": 210,
+			"versionNonce": 799136321,
 			"isDeleted": false,
 			"id": "y7wLSmhqL9mzwUc7zWrBT",
 			"fillStyle": "hachure",
@@ -1017,7 +1017,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692875597370,
+			"updated": 1692875968066,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1079,8 +1079,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		},
 		{
 			"type": "arrow",
-			"version": 238,
-			"versionNonce": 1007444783,
+			"version": 242,
+			"versionNonce": 1326128481,
 			"isDeleted": false,
 			"id": "E-x_7CLmYNICtwstEJ0YS",
 			"fillStyle": "hachure",
@@ -1102,7 +1102,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692875597372,
+			"updated": 1692875968068,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2500,8 +2500,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		},
 		{
 			"type": "text",
-			"version": 201,
-			"versionNonce": 2073873071,
+			"version": 236,
+			"versionNonce": 237738415,
 			"isDeleted": false,
 			"id": "yNludpOt",
 			"fillStyle": "hachure",
@@ -2510,8 +2510,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 507.1801428183012,
-			"y": 179.2103703876495,
+			"x": 494.4528700910282,
+			"y": 171.93764311492225,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 584.83984375,
@@ -2521,7 +2521,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692875362033,
+			"updated": 1692875973775,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3895,8 +3895,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		},
 		{
 			"type": "embeddable",
-			"version": 478,
-			"versionNonce": 2057400577,
+			"version": 479,
+			"versionNonce": 1105372015,
 			"isDeleted": false,
 			"id": "D_CncCH69U2pYSRGuf-Pa",
 			"fillStyle": "hachure",
@@ -3918,7 +3918,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692875597288,
+			"updated": 1692875967996,
 			"link": "obsidian://open?vault=Research&file=synopsis%2FHardware%20Components",
 			"locked": false,
 			"validated": true
@@ -3962,8 +3962,8 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		},
 		{
 			"type": "embeddable",
-			"version": 309,
-			"versionNonce": 254466959,
+			"version": 310,
+			"versionNonce": 1033817857,
 			"isDeleted": false,
 			"id": "pL_M8l8Dj4zjbGzs8AUbp",
 			"fillStyle": "hachure",
@@ -3985,7 +3985,7 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692875597288,
+			"updated": 1692875967996,
 			"link": "obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis",
 			"locked": false,
 			"validated": true
@@ -4043,10 +4043,10 @@ URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1144.7742677524195,
-		"scrollY": 992.1187562149146,
+		"scrollX": 192.49937597752762,
+		"scrollY": 458.39418911534756,
 		"zoom": {
-			"value": 0.25
+			"value": 0.5499999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
