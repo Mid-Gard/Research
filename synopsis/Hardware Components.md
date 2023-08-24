@@ -5,8 +5,8 @@
 1. Moisture Sensors
 2. Cow Behavior Sensors
 3. Location Tracker (GPS or RFID device)
-4. Motor and Valve Mechanism
-5. Linear Actuator
+4. Motor and Valve Mechanism (Actuator)
+5. Linear Actuator (Have no idea what it is as of now)
 6. CCTV Cameras with Video Processing Capability
 7. Drip Irrigation System Components
 
