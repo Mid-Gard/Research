@@ -33,6 +33,7 @@ kanban-plugin: basic
 
 ## Atmanand
 
+- [ ] Beegle Bone Tasks
 
 
 ## Ramesh
