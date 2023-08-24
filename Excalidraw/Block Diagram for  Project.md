@@ -83,7 +83,9 @@ Dashboard & Control App   ^fNAz5F6U
 
 BY AIYAZ  ^jfwKrb6N
 
-obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
+URL FOR HARDWARE COMPONENTS DEPLOYED ^sVZJzbuz
+
+URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS ^6HzfEjo9
 
 %%
 # Drawing
@@ -95,8 +97,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 114,
-			"versionNonce": 983351727,
+			"version": 116,
+			"versionNonce": 698769313,
 			"isDeleted": false,
 			"id": "Bjr2FTajAVdxHTavAJyYm",
 			"fillStyle": "hachure",
@@ -127,14 +129,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871675342,
+			"updated": 1692875362031,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 139,
-			"versionNonce": 1540142273,
+			"version": 141,
+			"versionNonce": 1915332335,
 			"isDeleted": false,
 			"id": "QuUXcNAO",
 			"fillStyle": "hachure",
@@ -154,7 +156,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871675342,
+			"updated": 1692875362031,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -170,8 +172,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 211,
-			"versionNonce": 471249871,
+			"version": 213,
+			"versionNonce": 1541129089,
 			"isDeleted": false,
 			"id": "Vj1KMUjOTgZxe0jSZ8wVU",
 			"fillStyle": "hachure",
@@ -202,14 +204,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871675342,
+			"updated": 1692875362031,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 1555723425,
+			"version": 213,
+			"versionNonce": 861204751,
 			"isDeleted": false,
 			"id": "53hM8hWc",
 			"fillStyle": "hachure",
@@ -229,7 +231,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871675342,
+			"updated": 1692875362031,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -245,8 +247,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 137,
-			"versionNonce": 969761263,
+			"version": 139,
+			"versionNonce": 226077537,
 			"isDeleted": false,
 			"id": "j4lrVLXDSIGEJp9IabTak",
 			"fillStyle": "hachure",
@@ -277,14 +279,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871675342,
+			"updated": 1692875362031,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 201,
-			"versionNonce": 497367169,
+			"version": 203,
+			"versionNonce": 1624373039,
 			"isDeleted": false,
 			"id": "48iCTVyN",
 			"fillStyle": "hachure",
@@ -304,7 +306,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871675343,
+			"updated": 1692875362031,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -320,8 +322,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 170,
-			"versionNonce": 1690913807,
+			"version": 172,
+			"versionNonce": 1188009793,
 			"isDeleted": false,
 			"id": "ojFgs4jna6z2jz8dXugJg",
 			"fillStyle": "hachure",
@@ -348,14 +350,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"id": "wb33dKWK"
 				}
 			],
-			"updated": 1692871675343,
+			"updated": 1692875362031,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 233,
-			"versionNonce": 541884513,
+			"version": 235,
+			"versionNonce": 17381711,
 			"isDeleted": false,
 			"id": "wb33dKWK",
 			"fillStyle": "hachure",
@@ -375,7 +377,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -391,8 +393,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 220,
-			"versionNonce": 956494383,
+			"version": 222,
+			"versionNonce": 1513948961,
 			"isDeleted": false,
 			"id": "3S1222B8v408BQiY2T1iL",
 			"fillStyle": "hachure",
@@ -423,14 +425,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 216,
-			"versionNonce": 41929793,
+			"version": 218,
+			"versionNonce": 961754991,
 			"isDeleted": false,
 			"id": "KyOSqAoC",
 			"fillStyle": "hachure",
@@ -450,7 +452,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -466,8 +468,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 81,
-			"versionNonce": 1063441487,
+			"version": 83,
+			"versionNonce": 573668097,
 			"isDeleted": false,
 			"id": "DMhWgqZh",
 			"fillStyle": "hachure",
@@ -487,7 +489,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 31.716702812476345,
@@ -503,8 +505,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 134,
-			"versionNonce": 2082380833,
+			"version": 136,
+			"versionNonce": 1878552975,
 			"isDeleted": false,
 			"id": "n3bJupHCTTZImEhvmU0qx",
 			"fillStyle": "hachure",
@@ -539,14 +541,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 102,
-			"versionNonce": 1338077807,
+			"version": 104,
+			"versionNonce": 2133619425,
 			"isDeleted": false,
 			"id": "cSG1OjeU",
 			"fillStyle": "hachure",
@@ -566,7 +568,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -582,8 +584,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 142,
-			"versionNonce": 488140801,
+			"version": 144,
+			"versionNonce": 774989743,
 			"isDeleted": false,
 			"id": "kq2MBmdSoLmxrlVtMxvOS",
 			"fillStyle": "hachure",
@@ -618,14 +620,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 854019215,
+			"version": 136,
+			"versionNonce": 364736193,
 			"isDeleted": false,
 			"id": "feRqpaYo",
 			"fillStyle": "hachure",
@@ -645,7 +647,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -661,8 +663,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 227,
-			"versionNonce": 2136028641,
+			"version": 234,
+			"versionNonce": 1334219183,
 			"isDeleted": false,
 			"id": "cB1i0nv5Jwvpl_uceBV2n",
 			"fillStyle": "hachure",
@@ -684,7 +686,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692873575714,
+			"updated": 1692875597365,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -717,8 +719,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 230,
-			"versionNonce": 2120469761,
+			"version": 252,
+			"versionNonce": 402332815,
 			"isDeleted": false,
 			"id": "DaZ7iXcsg8Ewe6oRcorF0",
 			"fillStyle": "hachure",
@@ -740,7 +742,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692873575719,
+			"updated": 1692875597370,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -769,8 +771,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 184,
-			"versionNonce": 88376545,
+			"version": 191,
+			"versionNonce": 916894383,
 			"isDeleted": false,
 			"id": "AIfSXUwCZ0Uj7axihWOFL",
 			"fillStyle": "hachure",
@@ -792,7 +794,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692873575720,
+			"updated": 1692875597371,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -825,8 +827,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 93,
-			"versionNonce": 1432007887,
+			"version": 95,
+			"versionNonce": 170881665,
 			"isDeleted": false,
 			"id": "fn6-gd8pDrzuouvo8lhDV",
 			"fillStyle": "hachure",
@@ -848,14 +850,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 168,
-			"versionNonce": 1249051553,
+			"version": 170,
+			"versionNonce": 144159247,
 			"isDeleted": false,
 			"id": "b7Ch8-CleCqZAeTR_yj0P",
 			"fillStyle": "hachure",
@@ -877,7 +879,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -906,8 +908,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 177,
-			"versionNonce": 1967095969,
+			"version": 189,
+			"versionNonce": 1053758191,
 			"isDeleted": false,
 			"id": "BvAAXTYjIJ4nbdURJfF14",
 			"fillStyle": "hachure",
@@ -916,11 +918,11 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -640.1397218809864,
+			"x": -672.0440814448583,
 			"y": 733.6784135850396,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 2.505611719087142,
+			"width": 12.893360443392908,
 			"height": 35.22777238308868,
 			"seed": 441762624,
 			"groupIds": [],
@@ -929,7 +931,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692873575721,
+			"updated": 1692875597372,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -951,15 +953,15 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					0
 				],
 				[
-					2.505611719087142,
+					12.893360443392908,
 					-35.22777238308868
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 96,
-			"versionNonce": 57927553,
+			"version": 98,
+			"versionNonce": 1645516847,
 			"isDeleted": false,
 			"id": "TRvUtWE5EaxQcbODNTdET",
 			"fillStyle": "hachure",
@@ -986,14 +988,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 202,
-			"versionNonce": 1259235649,
+			"version": 209,
+			"versionNonce": 2016060495,
 			"isDeleted": false,
 			"id": "y7wLSmhqL9mzwUc7zWrBT",
 			"fillStyle": "hachure",
@@ -1015,7 +1017,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692873575718,
+			"updated": 1692875597370,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1048,8 +1050,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 86,
-			"versionNonce": 1450004321,
+			"version": 88,
+			"versionNonce": 1666169423,
 			"isDeleted": false,
 			"id": "UohurrjR0roB8k2tV-UfY",
 			"fillStyle": "hachure",
@@ -1071,14 +1073,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692871675343,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 216,
-			"versionNonce": 1274973281,
+			"version": 238,
+			"versionNonce": 1007444783,
 			"isDeleted": false,
 			"id": "E-x_7CLmYNICtwstEJ0YS",
 			"fillStyle": "hachure",
@@ -1100,7 +1102,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692873575721,
+			"updated": 1692875597372,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1129,8 +1131,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "line",
-			"version": 469,
-			"versionNonce": 232419681,
+			"version": 471,
+			"versionNonce": 1898027119,
 			"isDeleted": false,
 			"id": "cnZTJ9xPH3kx1DYEERBYo",
 			"fillStyle": "hachure",
@@ -1152,7 +1154,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692873607511,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1173,8 +1175,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 648,
-			"versionNonce": 541943567,
+			"version": 650,
+			"versionNonce": 1572186625,
 			"isDeleted": false,
 			"id": "nkwXj0n59JyzkvKdJyPDu",
 			"fillStyle": "hachure",
@@ -1196,14 +1198,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 420,
-			"versionNonce": 1129033007,
+			"version": 422,
+			"versionNonce": 1095938703,
 			"isDeleted": false,
 			"id": "Zb97iNt2",
 			"fillStyle": "hachure",
@@ -1223,7 +1225,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 30.66666666666671,
@@ -1239,8 +1241,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 249,
-			"versionNonce": 383528783,
+			"version": 309,
+			"versionNonce": 944947681,
 			"isDeleted": false,
 			"id": "f5b3hD19",
 			"fillStyle": "hachure",
@@ -1249,8 +1251,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 828.7376519055474,
-			"y": -169.26358794568398,
+			"x": 833.353036520932,
+			"y": -320.03281871491475,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 187.614501953125,
@@ -1260,7 +1262,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 34.66666666666664,
@@ -1276,8 +1278,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 761,
-			"versionNonce": 939456001,
+			"version": 763,
+			"versionNonce": 1016826031,
 			"isDeleted": false,
 			"id": "d8ThOIRI",
 			"fillStyle": "hachure",
@@ -1297,7 +1299,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1313,8 +1315,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 807,
-			"versionNonce": 1821491553,
+			"version": 809,
+			"versionNonce": 323083713,
 			"isDeleted": false,
 			"id": "rG39x7oP",
 			"fillStyle": "hachure",
@@ -1339,7 +1341,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692872077076,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1355,8 +1357,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 604,
-			"versionNonce": 1791337665,
+			"version": 606,
+			"versionNonce": 547658447,
 			"isDeleted": false,
 			"id": "l53ImEz2",
 			"fillStyle": "hachure",
@@ -1376,7 +1378,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692872112842,
+			"updated": 1692875362032,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1392,8 +1394,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 802,
-			"versionNonce": 1920996705,
+			"version": 804,
+			"versionNonce": 497188257,
 			"isDeleted": false,
 			"id": "2gYZTszn",
 			"fillStyle": "hachure",
@@ -1413,7 +1415,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1429,8 +1431,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 802,
-			"versionNonce": 1400422721,
+			"version": 804,
+			"versionNonce": 1644587247,
 			"isDeleted": false,
 			"id": "CjBYhG8P",
 			"fillStyle": "hachure",
@@ -1450,7 +1452,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1466,8 +1468,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 963,
-			"versionNonce": 1894883329,
+			"version": 965,
+			"versionNonce": 1990467969,
 			"isDeleted": false,
 			"id": "rEKAOTLw",
 			"fillStyle": "hachure",
@@ -1487,7 +1489,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871997387,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 23.61540921087086,
@@ -1503,8 +1505,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 1265,
-			"versionNonce": 2101033153,
+			"version": 1267,
+			"versionNonce": 1313436431,
 			"isDeleted": false,
 			"id": "KTaqrdld",
 			"fillStyle": "hachure",
@@ -1524,7 +1526,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871929158,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1540,8 +1542,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 822,
-			"versionNonce": 1254062273,
+			"version": 824,
+			"versionNonce": 730220897,
 			"isDeleted": false,
 			"id": "R3NPtJ4m",
 			"fillStyle": "hachure",
@@ -1561,7 +1563,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871818713,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1577,8 +1579,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 1020,
-			"versionNonce": 421566177,
+			"version": 1022,
+			"versionNonce": 1843804463,
 			"isDeleted": false,
 			"id": "qI2iXiLz",
 			"fillStyle": "hachure",
@@ -1598,7 +1600,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871830599,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 27.98449612403091,
@@ -1614,8 +1616,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 746,
-			"versionNonce": 983740481,
+			"version": 748,
+			"versionNonce": 1972925761,
 			"isDeleted": false,
 			"id": "dpBq46Na",
 			"fillStyle": "hachure",
@@ -1635,7 +1637,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1651,8 +1653,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 744,
-			"versionNonce": 1984233505,
+			"version": 746,
+			"versionNonce": 642071375,
 			"isDeleted": false,
 			"id": "FOohfg0S",
 			"fillStyle": "hachure",
@@ -1672,7 +1674,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1688,8 +1690,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 756,
-			"versionNonce": 1288852481,
+			"version": 758,
+			"versionNonce": 943334689,
 			"isDeleted": false,
 			"id": "OE8dn2CB",
 			"fillStyle": "hachure",
@@ -1709,7 +1711,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.984496124031008,
@@ -1725,8 +1727,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 567,
-			"versionNonce": 536500833,
+			"version": 569,
+			"versionNonce": 465500527,
 			"isDeleted": false,
 			"id": "x5VtDtAIZn0VvDoAGXdcr",
 			"fillStyle": "hachure",
@@ -1753,14 +1755,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692872092894,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 428,
-			"versionNonce": 474441633,
+			"version": 430,
+			"versionNonce": 1054529793,
 			"isDeleted": false,
 			"id": "Vy2wif7CZtdxMGphdwGFy",
 			"fillStyle": "hachure",
@@ -1791,14 +1793,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 431,
-			"versionNonce": 1112874223,
+			"version": 433,
+			"versionNonce": 1402729359,
 			"isDeleted": false,
 			"id": "FMfS3i03yGB1USEAxaaYY",
 			"fillStyle": "hachure",
@@ -1829,14 +1831,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692872200917,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 440,
-			"versionNonce": 22509249,
+			"version": 442,
+			"versionNonce": 989466849,
 			"isDeleted": false,
 			"id": "tj33iFg9HOPhbOqL1NNN_",
 			"fillStyle": "hachure",
@@ -1863,14 +1865,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 372,
-			"versionNonce": 1908002511,
+			"version": 374,
+			"versionNonce": 370452911,
 			"isDeleted": false,
 			"id": "5vhJi6dUL1ZjvegVnbtu1",
 			"fillStyle": "hachure",
@@ -1897,14 +1899,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692872200917,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 453,
-			"versionNonce": 1219501601,
+			"version": 455,
+			"versionNonce": 36129985,
 			"isDeleted": false,
 			"id": "Rjq4AuvK8BuRc_7p7dp6X",
 			"fillStyle": "hachure",
@@ -1931,14 +1933,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 401,
-			"versionNonce": 1205575553,
+			"version": 403,
+			"versionNonce": 273783759,
 			"isDeleted": false,
 			"id": "nbFYHUYJVB98DazzufSr5",
 			"fillStyle": "hachure",
@@ -1965,14 +1967,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871987886,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 289,
-			"versionNonce": 920792719,
+			"version": 291,
+			"versionNonce": 201460897,
 			"isDeleted": false,
 			"id": "sDI2T9lyA1Uy3wz8aRw98",
 			"fillStyle": "hachure",
@@ -1994,14 +1996,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692871723688,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 450,
-			"versionNonce": 691242401,
+			"version": 452,
+			"versionNonce": 913000943,
 			"isDeleted": false,
 			"id": "Mj4RCa0W9hNG0C1oM2uAP",
 			"fillStyle": "hachure",
@@ -2028,14 +2030,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 376,
-			"versionNonce": 1014321505,
+			"version": 378,
+			"versionNonce": 809095297,
 			"isDeleted": false,
 			"id": "MkWQ9w8IAVFglBTs7Eh1E",
 			"fillStyle": "hachure",
@@ -2057,14 +2059,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 394,
-			"versionNonce": 593919297,
+			"version": 396,
+			"versionNonce": 1701458959,
 			"isDeleted": false,
 			"id": "j2LGOXC3LFYh7iLXqrDMB",
 			"fillStyle": "hachure",
@@ -2086,14 +2088,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 381,
-			"versionNonce": 252128545,
+			"version": 383,
+			"versionNonce": 613292129,
 			"isDeleted": false,
 			"id": "AjXZiyxGcr5iMDL3moPil",
 			"fillStyle": "hachure",
@@ -2115,14 +2117,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 401,
-			"versionNonce": 1187438849,
+			"version": 403,
+			"versionNonce": 1162271279,
 			"isDeleted": false,
 			"id": "7d5TBxBh5sPNYMav4jcmC",
 			"fillStyle": "hachure",
@@ -2144,14 +2146,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 1021,
-			"versionNonce": 254809295,
+			"version": 1023,
+			"versionNonce": 986604609,
 			"isDeleted": false,
 			"id": "iCwWiIzDwTccFpVQylEsk",
 			"fillStyle": "hachure",
@@ -2173,7 +2175,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871723687,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2202,8 +2204,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 1565,
-			"versionNonce": 2040395297,
+			"version": 1567,
+			"versionNonce": 1793702991,
 			"isDeleted": false,
 			"id": "hQj_EBERGqNrUf9TtIP88",
 			"fillStyle": "hachure",
@@ -2225,7 +2227,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692872092895,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2254,8 +2256,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 1071,
-			"versionNonce": 1170468239,
+			"version": 1073,
+			"versionNonce": 1591358497,
 			"isDeleted": false,
 			"id": "72xc8cwhFDEB_EGHpdq52",
 			"fillStyle": "hachure",
@@ -2277,7 +2279,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871723687,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2306,8 +2308,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 368,
-			"versionNonce": 267722849,
+			"version": 370,
+			"versionNonce": 975919727,
 			"isDeleted": false,
 			"id": "NYihopfmS4IEpKEAYBbOK",
 			"fillStyle": "hachure",
@@ -2329,7 +2331,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871723271,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2350,8 +2352,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 997,
-			"versionNonce": 4396495,
+			"version": 999,
+			"versionNonce": 1419839489,
 			"isDeleted": false,
 			"id": "HWHCQ-WCDuvyU4UbJJa6m",
 			"fillStyle": "hachure",
@@ -2373,7 +2375,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871723687,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2402,8 +2404,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 1068,
-			"versionNonce": 562590529,
+			"version": 1070,
+			"versionNonce": 131347599,
 			"isDeleted": false,
 			"id": "ZrzWBhKswwuOIMdN8baRM",
 			"fillStyle": "hachure",
@@ -2425,7 +2427,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871987887,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2454,8 +2456,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 842,
-			"versionNonce": 558773839,
+			"version": 844,
+			"versionNonce": 908222433,
 			"isDeleted": false,
 			"id": "zZEMS64kw0qUAtDz3uJUp",
 			"fillStyle": "hachure",
@@ -2477,7 +2479,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871723688,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2498,8 +2500,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 199,
-			"versionNonce": 1281802177,
+			"version": 201,
+			"versionNonce": 2073873071,
 			"isDeleted": false,
 			"id": "yNludpOt",
 			"fillStyle": "hachure",
@@ -2519,7 +2521,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692873254513,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2535,8 +2537,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 436594575,
+			"version": 184,
+			"versionNonce": 829275073,
 			"isDeleted": false,
 			"id": "BkjJE8Er",
 			"fillStyle": "hachure",
@@ -2556,7 +2558,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2572,8 +2574,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 185,
-			"versionNonce": 1663049135,
+			"version": 187,
+			"versionNonce": 841850063,
 			"isDeleted": false,
 			"id": "IE4ntnok",
 			"fillStyle": "hachure",
@@ -2593,7 +2595,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2609,8 +2611,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 186,
-			"versionNonce": 332304335,
+			"version": 188,
+			"versionNonce": 111319969,
 			"isDeleted": false,
 			"id": "rlLL9bds",
 			"fillStyle": "hachure",
@@ -2630,7 +2632,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362033,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2646,8 +2648,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 240,
-			"versionNonce": 640269807,
+			"version": 242,
+			"versionNonce": 522136303,
 			"isDeleted": false,
 			"id": "snEEoxNI",
 			"fillStyle": "hachure",
@@ -2667,7 +2669,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2683,8 +2685,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 177,
-			"versionNonce": 1027221519,
+			"version": 179,
+			"versionNonce": 1173389185,
 			"isDeleted": false,
 			"id": "oZuRQ4bT",
 			"fillStyle": "hachure",
@@ -2704,7 +2706,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2720,8 +2722,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 255,
-			"versionNonce": 116936239,
+			"version": 257,
+			"versionNonce": 788133135,
 			"isDeleted": false,
 			"id": "qlaLiV0x",
 			"fillStyle": "hachure",
@@ -2741,7 +2743,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2757,8 +2759,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 234,
-			"versionNonce": 1582084175,
+			"version": 236,
+			"versionNonce": 1301735265,
 			"isDeleted": false,
 			"id": "x3TqCCp8",
 			"fillStyle": "hachure",
@@ -2783,7 +2785,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2799,8 +2801,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 222,
-			"versionNonce": 235546767,
+			"version": 224,
+			"versionNonce": 691436335,
 			"isDeleted": false,
 			"id": "OoMJFvJe",
 			"fillStyle": "hachure",
@@ -2820,7 +2822,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2836,8 +2838,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 265,
-			"versionNonce": 787758767,
+			"version": 267,
+			"versionNonce": 132469569,
 			"isDeleted": false,
 			"id": "kRwcdKJa",
 			"fillStyle": "hachure",
@@ -2862,7 +2864,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2878,8 +2880,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 1378459375,
+			"version": 213,
+			"versionNonce": 1379745103,
 			"isDeleted": false,
 			"id": "z6lv9MOy",
 			"fillStyle": "hachure",
@@ -2899,7 +2901,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2915,8 +2917,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 231,
-			"versionNonce": 9824527,
+			"version": 233,
+			"versionNonce": 1765491489,
 			"isDeleted": false,
 			"id": "fNAz5F6U",
 			"fillStyle": "hachure",
@@ -2936,7 +2938,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2952,8 +2954,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 243,
-			"versionNonce": 1261694767,
+			"version": 245,
+			"versionNonce": 1298578287,
 			"isDeleted": false,
 			"id": "qGhEar_swuirJztuKl1La",
 			"fillStyle": "hachure",
@@ -2980,14 +2982,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 242,
-			"versionNonce": 2107060079,
+			"version": 244,
+			"versionNonce": 772290305,
 			"isDeleted": false,
 			"id": "VaAMEpDmunC_QvTbJ5eG6",
 			"fillStyle": "hachure",
@@ -3014,14 +3016,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 231,
-			"versionNonce": 1003970479,
+			"version": 233,
+			"versionNonce": 1056667023,
 			"isDeleted": false,
 			"id": "AqML3B5UsHC439rw8IMT1",
 			"fillStyle": "hachure",
@@ -3052,14 +3054,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 254,
-			"versionNonce": 1264626191,
+			"version": 256,
+			"versionNonce": 1489743585,
 			"isDeleted": false,
 			"id": "TTR7_qHp_ZktQOxmjaOv_",
 			"fillStyle": "hachure",
@@ -3086,14 +3088,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 220,
-			"versionNonce": 1379578447,
+			"version": 222,
+			"versionNonce": 775154607,
 			"isDeleted": false,
 			"id": "20b6DTJlfiEtSH_k27FJT",
 			"fillStyle": "hachure",
@@ -3120,14 +3122,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 255,
-			"versionNonce": 1004513935,
+			"version": 257,
+			"versionNonce": 1880435393,
 			"isDeleted": false,
 			"id": "7sS3RaA9_Tq-AlfwbOuS3",
 			"fillStyle": "hachure",
@@ -3158,14 +3160,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 236,
-			"versionNonce": 1793461601,
+			"version": 238,
+			"versionNonce": 658021839,
 			"isDeleted": false,
 			"id": "pPeATinqWjQvU3tF-izOa",
 			"fillStyle": "hachure",
@@ -3196,14 +3198,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871686311,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 279,
-			"versionNonce": 1498951983,
+			"version": 281,
+			"versionNonce": 2089036449,
 			"isDeleted": false,
 			"id": "TQhDpyt7aFx_fZShNvgU7",
 			"fillStyle": "hachure",
@@ -3234,14 +3236,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 341,
-			"versionNonce": 934341519,
+			"version": 343,
+			"versionNonce": 488770543,
 			"isDeleted": false,
 			"id": "ZIUfKy3Li9Vi1ofBG5ahf",
 			"fillStyle": "hachure",
@@ -3272,14 +3274,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 					"type": "arrow"
 				}
 			],
-			"updated": 1692871685882,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 535,
-			"versionNonce": 394513185,
+			"version": 537,
+			"versionNonce": 1187524225,
 			"isDeleted": false,
 			"id": "Wteqhx03tSESSVMlyflAW",
 			"fillStyle": "hachure",
@@ -3301,7 +3303,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871686311,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3330,8 +3332,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 376,
-			"versionNonce": 301973249,
+			"version": 378,
+			"versionNonce": 200848911,
 			"isDeleted": false,
 			"id": "GbB7bcrujwh50LGaqqOKd",
 			"fillStyle": "hachure",
@@ -3353,7 +3355,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871686311,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3378,8 +3380,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 540,
-			"versionNonce": 1372238529,
+			"version": 542,
+			"versionNonce": 1436595809,
 			"isDeleted": false,
 			"id": "7lG_50eQfSeo6Fa8QlLgg",
 			"fillStyle": "hachure",
@@ -3401,7 +3403,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871686311,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3430,8 +3432,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 376,
-			"versionNonce": 508080801,
+			"version": 378,
+			"versionNonce": 1521818671,
 			"isDeleted": false,
 			"id": "m-Iig9a1-F_iX_P5Ht1IZ",
 			"fillStyle": "hachure",
@@ -3453,7 +3455,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871686311,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3478,8 +3480,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 534,
-			"versionNonce": 635649633,
+			"version": 536,
+			"versionNonce": 735920705,
 			"isDeleted": false,
 			"id": "aTAfhXwyXxe49RFih2FhU",
 			"fillStyle": "hachure",
@@ -3501,7 +3503,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871686311,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3530,8 +3532,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 563,
-			"versionNonce": 1033755169,
+			"version": 565,
+			"versionNonce": 2101329487,
 			"isDeleted": false,
 			"id": "vhZTi4WtAZaqyiKCVjLi5",
 			"fillStyle": "hachure",
@@ -3553,7 +3555,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871686311,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3582,8 +3584,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 606,
-			"versionNonce": 1219790305,
+			"version": 608,
+			"versionNonce": 1180520993,
 			"isDeleted": false,
 			"id": "iDkS_9zYRFgYPSgHpYtgS",
 			"fillStyle": "hachure",
@@ -3605,7 +3607,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871686311,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3638,8 +3640,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 596,
-			"versionNonce": 191054241,
+			"version": 598,
+			"versionNonce": 1450253423,
 			"isDeleted": false,
 			"id": "6yjgub9Gu-zzMiMfiJwDJ",
 			"fillStyle": "hachure",
@@ -3661,7 +3663,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871686311,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3694,8 +3696,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "arrow",
-			"version": 458,
-			"versionNonce": 1012906305,
+			"version": 460,
+			"versionNonce": 1511024129,
 			"isDeleted": false,
 			"id": "5jJGjhO70VcTJY2EDJtxJ",
 			"fillStyle": "hachure",
@@ -3717,7 +3719,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692871686312,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3746,8 +3748,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "line",
-			"version": 435,
-			"versionNonce": 1380049697,
+			"version": 438,
+			"versionNonce": 1511110287,
 			"isDeleted": false,
 			"id": "gohrtJU6ngqDUffgSMfGP",
 			"fillStyle": "hachure",
@@ -3757,7 +3759,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"opacity": 100,
 			"angle": 0,
 			"x": 1657.6000646933012,
-			"y": -627.7896296123506,
+			"y": -629.328091150812,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 32,
@@ -3769,7 +3771,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692873619010,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3790,8 +3792,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "rectangle",
-			"version": 688,
-			"versionNonce": 1618612321,
+			"version": 690,
+			"versionNonce": 1375075809,
 			"isDeleted": false,
 			"id": "TI8FT2ypyN0KVBtZtlaVD",
 			"fillStyle": "hachure",
@@ -3813,14 +3815,14 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692871735064,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 412,
-			"versionNonce": 108747841,
+			"version": 414,
+			"versionNonce": 1859783855,
 			"isDeleted": false,
 			"id": "iFkH3KGy",
 			"fillStyle": "hachure",
@@ -3840,7 +3842,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871735064,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 30.66666666666671,
@@ -3856,8 +3858,8 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		},
 		{
 			"type": "text",
-			"version": 200,
-			"versionNonce": 438840353,
+			"version": 202,
+			"versionNonce": 220043713,
 			"isDeleted": false,
 			"id": "jfwKrb6N",
 			"fillStyle": "hachure",
@@ -3877,7 +3879,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692871735064,
+			"updated": 1692875362034,
 			"link": null,
 			"locked": false,
 			"fontSize": 34.66666666666664,
@@ -3892,41 +3894,138 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 			"baseline": 30
 		},
 		{
-			"type": "text",
-			"version": 55,
-			"versionNonce": 1633778831,
+			"type": "embeddable",
+			"version": 478,
+			"versionNonce": 2057400577,
 			"isDeleted": false,
-			"id": "82R7hSMq",
+			"id": "D_CncCH69U2pYSRGuf-Pa",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 570.7563834201388,
-			"y": -95.30975271841118,
+			"x": 573.7157794405293,
+			"y": -218.4855377633907,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 703.2603759765625,
-			"height": 25,
-			"seed": 990589839,
+			"width": 694.9284779500646,
+			"height": 46.91210235339268,
+			"seed": 16470081,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1692875597288,
+			"link": "obsidian://open?vault=Research&file=synopsis%2FHardware%20Components",
+			"locked": false,
+			"validated": true
+		},
+		{
+			"type": "text",
+			"version": 297,
+			"versionNonce": 768183969,
+			"isDeleted": false,
+			"id": "sVZJzbuz",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 576.2852804341533,
+			"y": -208.80379572234148,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 674.3594970703125,
+			"height": 35.58649665896699,
+			"seed": 1740215553,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692873446945,
-			"link": "obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis",
+			"updated": 1692875437279,
+			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 28.469197327173593,
 			"fontFamily": 1,
-			"text": "🌐obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis",
-			"rawText": "obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis",
+			"text": "URL FOR HARDWARE COMPONENTS DEPLOYED",
+			"rawText": "URL FOR HARDWARE COMPONENTS DEPLOYED",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "🌐obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis",
+			"originalText": "URL FOR HARDWARE COMPONENTS DEPLOYED",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 24
+		},
+		{
+			"type": "embeddable",
+			"version": 309,
+			"versionNonce": 254466959,
+			"isDeleted": false,
+			"id": "pL_M8l8Dj4zjbGzs8AUbp",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 582.8930649149132,
+			"y": -149.54818095683925,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 660.2051282051283,
+			"height": 70.34972677595621,
+			"seed": 175859983,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1692875597288,
+			"link": "obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis",
+			"locked": false,
+			"validated": true
+		},
+		{
+			"type": "text",
+			"version": 398,
+			"versionNonce": 477542785,
+			"isDeleted": false,
+			"id": "6HzfEjo9",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 603.5316790202401,
+			"y": -125.8974162805541,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 607.5983276367188,
+			"height": 28.272591894590082,
+			"seed": 1142676079,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1692875573807,
+			"link": null,
+			"locked": false,
+			"fontSize": 22.618073515672066,
+			"fontFamily": 1,
+			"text": "URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS",
+			"rawText": "URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "URL FOR BLOCK DIAGRAM DESCRIPTION/SYNOPSIS",
+			"lineHeight": 1.25,
+			"baseline": 20
 		}
 	],
 	"appState": {
@@ -3945,7 +4044,7 @@ obsidian://open?vault=Research&file=synopsis%2FProject%20synopsis ^82R7hSMq
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 1144.7742677524195,
-		"scrollY": 987.3495254456839,
+		"scrollY": 992.1187562149146,
 		"zoom": {
 			"value": 0.25
 		},

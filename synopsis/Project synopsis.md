@@ -1,5 +1,5 @@
 [[Block Diagram for  Project]]
-
+[[Hardware Components]]
 # Sensors:
 
 Sensors (Soil, Temperature, Humidity, Livestock Health) gather data from the farm environment.
@@ -41,11 +41,9 @@ Actuators (Pumps, Fans, Sprinklers, Feeders, etc.) control devices on the farm.
 
 # APP:
 1. **Remote Control Interface:**
-    
     - The Remote Control Interface allows users to control actuators on the farm remotely.
     - This interface is connected to the Cloud Platform, enabling remote interaction.
 2. **Farm Management Dashboard:**
-    
     - The Farm Management Dashboard provides real-time insights from the collected data.
     - Users can monitor the farm's status, make informed decisions, and adjust settings through this dashboard.
 3. **Remote Control & Dashboard:** The **Remote Control** and **Farm Management Dashboard** components are combined into one section. This integration allows users to both remotely control actuators and monitor the farm's status through a single interface.
