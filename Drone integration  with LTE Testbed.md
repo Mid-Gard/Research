@@ -38,7 +38,7 @@ Remember that the specific tools and software you use for LiDAR data processing 
 
 2. **Point Cloud Processing:**
    Use LiDAR software (such as CloudCompare, PCL, or specialized LiDAR libraries) to process the collected point cloud data and generate a 3D mesh representation of the terrain. This mesh will accurately depict the topography and features of the land.
-   
+
    **Tools Required:**
 
 - **LiDAR Data:** Raw point cloud data captured by the LiDAR sensor.
