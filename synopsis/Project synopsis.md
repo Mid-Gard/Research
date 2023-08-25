@@ -1,5 +1,8 @@
 [[Block Diagram for  Project]]
 [[Hardware Components]]
+
+
+![[Pasted image 20230825130827.png]]
 # Sensors:
 
 Sensors (Soil, Temperature, Humidity, Livestock Health) gather data from the farm environment.
