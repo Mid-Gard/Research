@@ -28,7 +28,7 @@ kanban-plugin: basic
 
 ## Aiyaz
 
-- [ ] GNU Radio
+- [ ] [[Resources|Learning GNU Radio]]
 
 
 ## Atmanand
