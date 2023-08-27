@@ -13,27 +13,27 @@ kanban-plugin: basic
 - [ ] https://github.com/osh/openlte, This project can be built if we create a virtual machine with the configurations he used, that is ubuntu 12.04, etc
 
 
+## Pending
+
+- [ ] Create local server
+- [ ] **Read Documentation** : Research on 5Nine Radio to know how to use that modem in future
+- [ ] Setup OpenLTE to use SDR or Deep Radio instead of USRP
+
+
 ## On Hold
 
 - [ ] **Opeb bts**<br>- See more projects for reference in this : https://github.com/search?q=openbts&type=repositories
 - [ ] YateBTS
 
 
-## Pending
-
-- [ ] Create local server
-- [ ] **Read Documentation** : Research on 5Nine Radio to know how to use that modem in future
-- [ ] Setup OpenLTE to use SDR or Deep Radio itself
-
-
 ## Aiyaz
 
-- [ ] [[Resources|Learning GNU Radio]]
+- [ ] [[GNURadio-Resources|Learning GNU Radio]]
 
 
 ## Atmanand
 
-- [ ] [[Beegle Bone]] Tasks
+- [ ] Learning [[Beegle Bone]], and resources collection
 
 
 ## Ramesh
