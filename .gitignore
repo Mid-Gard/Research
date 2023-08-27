@@ -9,3 +9,8 @@
 .obsidian/core-plugins.json
 .obsidian/workspace.json
 .obsidian/plugins/calendar/data.json
+
+*.excalidraw
+
+Excalidraw/
+/Excalidraw

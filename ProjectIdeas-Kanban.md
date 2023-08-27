@@ -9,19 +9,20 @@ kanban-plugin: basic
 - [ ] creating a offline server
 
 
-## Vehicle
-
-- [ ] [[V2V and V2I]]
-
-
 ## [[Drone integration  with LTE Testbed]]
 
+- [ ] **Resources**
 - [ ] [[Project from YT]]
+- [ ] **Pending**
 - [ ] How to use the LTE Testbed<br>- Going to learn in chennai
 - [ ] -  Cheap compatible Drone<br>-  [[LTE Module]]<br>-  [[Lidar Sensor]]<br>-  [[Beegle Bone]]
 - [ ] **Application**
 - [ ] Building Blueprint
-- [ ] **Resources**
+
+
+## **Archived Ideas**
+
+- [ ] [[V2V and V2I]]
 
 
 
