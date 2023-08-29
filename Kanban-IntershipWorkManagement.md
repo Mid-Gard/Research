@@ -41,6 +41,7 @@ kanban-plugin: basic
 ## Ramesh
 
 - [ ] https://www.youtube.com/watch?v=Mj7Z1P2hUWk
+- [ ] Some Resources : https://gisgeography.com/lidar-software-tools/
 
 
 
