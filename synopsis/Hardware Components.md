@@ -3,7 +3,7 @@
 # List of Hardware Components:
 
 1. Moisture Sensors
-2. Cow Behavior Sensors
+2. Cow Behaviour Sensors
 3. Location Tracker (GPS or RFID device)
 4. Motor and Valve Mechanism (Actuator)
 5. Linear Actuator (Have no idea what it is as of now)
@@ -15,9 +15,9 @@
     - **Use:** Moisture sensors are used to measure the moisture content of the soil. They help determine whether the soil has adequate moisture for optimal plant growth.
     - **Hardware Component:** Moisture sensor devices
 
-2. **Cow Behavior Sensors:**
-    - **Use:** Cow behavior sensors monitor the behavior and movement of livestock, particularly cows. They can provide insights into the health, activity levels, and well-being of the animals.
-    - **Hardware Component:** Cow behavior sensor devices
+2. **Cow Behaviour Sensors:**
+    - **Use:** Cow behaviour sensors monitor the behaviour and movement of livestock, particularly cows. They can provide insights into the health, activity levels, and well-being of the animals.
+    - **Hardware Component:** Cow behaviour sensor devices
 
 3. **Location Tracker:**
     - **Use:** A location tracker is used to monitor the movement and location of assets, livestock, or vehicles in real-time. It's particularly useful for tracking the whereabouts of animals on a farm.
@@ -36,5 +36,5 @@
     - **Hardware Component:** CCTV cameras with video processing capabilities
 
 7. **Drip Irrigation System:**
-    - **Use:** Drip irrigation is an efficient irrigation method that delivers water directly to the base of plants. It conserves water by minimizing evaporation and ensuring targeted water delivery.
+    - **Use:** Drip irrigation is an efficient irrigation method that delivers water directly to the base of plants. It conserves water by minimising evaporation and ensuring targeted water delivery.
 
