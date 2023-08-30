@@ -2,6 +2,60 @@
 cssclass: img-grid
 ---
 
+### Commercial FM Frequency Band
+88-108 MHz
+
+DVB Frequency Bands
+In the VHF band, there are 70 DVB channels each with bandwidth of 6 MHz.
+
+For channel number x = 14,…,83, the lower edge is f_l = 470 + 6(x-14) MHz
+
+and the upper edge is  f_u = 476 + 6(x-14) MHz.
+
+### GSM Frequency Bands
+
+| Band     | Uplink Frequency (MHz) | Downlink frequency(MHz) | Channel Numbers |
+| -------- | ---------------------- | ----------------------- | --------------- |
+| GSM-850  | 824.2-848.8            | 869.2-893.8             | 128-251         |
+| GSM-900  | 880.0-915.0            | 925.0-960.0             | 0-124,975-1023  |
+| DCS-1800 | 1710.2-1784.8          | 1805.2-1879.2           | 512-810         |
+| PCS-1900 | 1850.2-1909.8          | 1930.2-1989.8           | 512-810         |
+
+### ARFCNs of GSM-900 band
+
+| ARFCN[n] | Uplink frequency [f_ul] (MHz) | Downlink Frequency (Mhz) |
+| -------- | ----------------------------- | ------------------------ |
+|          |                               |                          |
+| 0-124 |	890 + 0.2*n |	f_ul+ 45 |
+
+### Commonly Used LTE Frequency bands
+
+| Band | Duplex Mode | Uplink(MHz) | Downlink(MHz) | Duplex Spacing(MHz) | Channel Bandwidths(MHz) |
+| ---- | ----------- | ----------- | ------------- | ------------------- | ----------------------- |
+|      |             |             |               |                     |                         |
+| 3    | FDD         | 1710-1785   | 18.5-1880     | 95                  | 1.4,3,5,10,5,20         |
+|      |             |             |               |                     |                         |
+| 5	| FDD| 824-849	| 869-894|	45	|1.4,3,5,10|
+|7	|FDD	|2500-2570|	2620-2690	|120|	5,10,15,20|
+|40|	TDD|	2300-2400	|	n/a	|5,10,15,20|
+### GPS Frequency Bands
+
+| Band | Frequency(MHz) | Channel Bandwidth(MHz) |
+| ---- | -------------- | -------  |
+|      |                |         |
+|L1	|1525.42|	15.345|
+|L2	|1227.6|	11|
+|L3|	1176.45	|12.5|
+
+
+### WLAN Frequency Bands
+
+For channel number x= 1,2,3…,13, the center frequency is f_x=2412 + 5(x - 1) MHz
+
+and f_14 = 2486.5
+
+
+## Some Illustrations
 
 ![[Pasted image 20230818114718.png|400]] ![[Pasted image 20230829115024.png|400]]
 
