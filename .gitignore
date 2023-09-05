@@ -2,6 +2,7 @@
 .obsidian/
 *.pdf
 *.PDF
+*.docx
 .obsidian/app.json
 .obsidian/appearance.json
 .obsidian/community-plugins.json

@@ -6,7 +6,8 @@ kanban-plugin: basic
 
 ## TODO Tasks (Pending)
 
-- [ ] Learning the 4G Testbed from Lab<br>- Going to learn from Chennai
+- [ ] [[Simulating 5G on VMs]]
+- [ ] Learning the 4G Testbed available in ADC Lab<br>- Going to learn from Chennai
 
 
 ## Seting UP the IOT devices from lab
