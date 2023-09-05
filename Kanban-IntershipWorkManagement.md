@@ -29,6 +29,8 @@ kanban-plugin: basic
 ## Aiyaz
 
 - [ ] [[GNURadio-Resources|Learning GNU Radio]]
+- [ ] Search Projects using SDR or HackRF on Github and recreate them, mostly there will be Machine Learning based
+- [ ] Install Different types of softwares for  using SDR or HackRF. This is will be only for Windows
 
 
 ## Atmanand
@@ -39,6 +41,7 @@ kanban-plugin: basic
 ## Ramesh
 
 - [ ] https://www.youtube.com/watch?v=Mj7Z1P2hUWk
+- [ ] Some Resources : https://gisgeography.com/lidar-software-tools/
 
 
 
